@@ -7,7 +7,6 @@ challenges. Committed to personal growth and continuous learning, with a strong 
 excellence and make a meaningful impact in both personal and professional pursuits. </p>
 
 ## 🧐 About Me
-    😄 Pronouns: he/him
     🏫 Currently studying at Polytechnic University of the Philippines - Sta. Mesa
     💻 2nd Year student pursuing, Bachelor of Science in Information Technology
     🌱 I’m currently learning: 
@@ -18,7 +17,8 @@ excellence and make a meaningful impact in both personal and professional pursui
         • Stock Market, Trading, Crypto 📈
         • Lifestyle, My Gym Program, Bikes 🏋️
         • Self-Improvement 📖
-    📫 How to reach me? My socials are on the left side of the screen 👀
+    📫 How to reach me? My socials are on the 
+          left side of the screen or on top 👀
     ⚡ Fun fact: Very approachable!
 
 ## ⚡ Experience 
