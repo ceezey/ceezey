@@ -87,10 +87,12 @@ excellence and make a meaningful impact in both personal and professional pursui
 
 
 <!-- Github Stats -->
+<!--
 <h1 align="center">Statistics</h1>
 
 ![](https://github-readme-stats.vercel.app/api?username=ceezey&show_icons=TRUE&theme=tokyonight)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=ceezey&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+-->
 
 <!--
 **ceezey/ceezey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
